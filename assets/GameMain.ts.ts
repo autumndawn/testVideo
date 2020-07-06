@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2020-07-06 23:38:47
- * @LastEditTime: 2020-07-07 00:04:29
+ * @LastEditTime: 2020-07-07 00:42:28
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \TestVideo\assets\GameMain.ts.ts
@@ -36,7 +36,7 @@ export default class NewClass extends cc.Component {
         // let video0 = document.getElementsByClassName('cocosVideo')[0];
         // video0.style.zIndex = -1;
 
-        let video0 = document.getElementsByClassName('video')[0];
+        let video0 = document.getElementsByClassName('cocosVideo')[0];
         video0.style.zIndex = -20;
         // video0.style.display = 'inline';
         // video0.style
